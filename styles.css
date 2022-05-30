@@ -93,18 +93,14 @@ body {
   transform: translate(-50%, -50%)
 }
 
-.image-container {
-  width: 100px;
-  height: 100px;
-}
-
 .meditation {
   visibility: visible;
 }
 
 .clear-button-container {
-  height: 50px;
-  width: 50px;
+  border: 1px dashed green;
+  height: 80px;
+  width: 100px;
   display: flex;
   flex-direction: column;
   align-content: flex-start;

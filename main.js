@@ -38,8 +38,7 @@ function selectMessage() {
       messageType = button.value;
     }
   }
-  var myMessages = "";
-
+  var myMessages;
   if (messageType === "affirmation") {
     myMessages = generateAffirmation();
   } else if (messageType === "mantra") {
