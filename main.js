@@ -18,7 +18,7 @@ messageButton.addEventListener('click', selectMessage);
 clearButton.addEventListener('click', clearMessage);
 
 // initializers:
-// performed on every page loag/refresh
+// performed on every page load/refresh
 // to set initial page state
 
 for (var i = 0; i < radioButtons.length; i++) {
