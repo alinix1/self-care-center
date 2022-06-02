@@ -1,9 +1,9 @@
 // query selectors below:
 
-var clearButton = document.querySelector('.clear-button');
-var messageButton = document.querySelector('.receive-message');
-var meditateImage = document.querySelector('.meditation');
-var messageText = document.querySelector('.uplifting-message');
+var clearButton = document.getElementById('clearButton');
+var messageButton = document.getElementById('receiveButton');
+var meditateImage = document.getElementById('meditation');
+var messageText = document.getElementById('upliftingMessage');
 var radioButtons = document.getElementsByClassName("radio");
 
 // data below:
