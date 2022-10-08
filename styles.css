@@ -1,3 +1,7 @@
+/* * {
+  border: solid red;
+} */
+
 body {
   background-color: #134d71;
   background-image: linear-gradient(#134d71, #78a7c6, #f7e4bf);
@@ -83,7 +87,8 @@ body {
   justify-content: center;
   align-items: center;
   border-radius: 6px;
-  border: none;
+  border: 0;
+  cursor: pointer;
 }
 
 .uplifting-message {
@@ -99,9 +104,11 @@ body {
 }
 
 .clear-button-container {
-  border: 1px dashed green;
+  border: 0;
   height: 80px;
   width: 100px;
+  margin-top: 2%;
+  margin-bottom: 2%;
   display: flex;
   flex-direction: column;
   align-content: flex-start;
@@ -110,12 +117,19 @@ body {
 
 }
 
+/* .button-button-container {
+  height: 15vh;
+  width: -moz-available;
+} */
+
 .clear-button {
   background-color: #134d71;
   color: #ffffff;
   font-family: 'Quicksand', 'sans-serif';
   font-size: 14px;
   border-radius: 6px;
+  border: 0;
+  cursor: pointer;
 }
 
 .hidden {
