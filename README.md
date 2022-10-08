@@ -9,7 +9,8 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 <img width="1174" alt="Screen Shot 2022-10-07 at 6 02 39 PM" src="https://user-images.githubusercontent.com/28677929/194676968-0079fce1-2196-4b3c-a6e7-687e0cdc71b1.png">
 
-![2022-10-07 18 06 58](https://user-images.githubusercontent.com/28677929/194677116-a35edf35-d8bb-49a6-a5da-637bdd3c13c0.gif)
+https://user-images.githubusercontent.com/28677929/194677869-c1a8d081-1e8b-4e79-a9cc-00c84ac1dd0a.mov
+
 
 ## Objectives
 
